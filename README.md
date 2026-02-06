@@ -30,15 +30,9 @@ A full-stack, production-ready portal for college campus placements, resources, 
 2. `npm install`
 3. Start App: `npm run dev`
 
-## 🔐 Credentials (Seeded Data)
 
-| Role | Email | Password |
-|------|-------|----------|
-| **Admin** | admin@university.edu | password123 |
-| **Faculty** | faculty@university.edu | password123 |
-| **Student** | aryan@university.edu | password123 |
 
-## 📁 Structure
+##  Structure
 
 - `/backend`: Express server, controllers, models, and routes.
 - `/frontend`: React application with components, pages, and context.
