@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <ellipse cx="200" cy="200" rx="150" ry="95" fill="#F5F5F4" opacity="0.6"/>
+  
+  <!-- Character body -->
+  <ellipse cx="200" cy="185" rx="42" ry="50" fill="#EBF4FF"/>
+  
+  <!-- Head -->
+  <circle cx="200" cy="135" r="26" fill="#5B8DEF"/>
+  
+  <!-- Searching eyes -->
+  <circle cx="193" cy="133" r="2.5" fill="#1C1917"/>
+  <circle cx="207" cy="133" r="2.5" fill="#1C1917"/>
+  
+  <!-- Hopeful expression -->
+  <path d="M 193 143 Q 200 147 207 143" stroke="#1C1917" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Magnifying glass -->
+  <circle cx="255" cy="165" r="20" fill="none" stroke="#F59E0B" stroke-width="3.5"/>
+  <line x1="269" y1="179" x2="287" y2="197" stroke="#F59E0B" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <!-- Document/folder icons floating -->
+  <rect x="100" y="120" width="45" height="28" rx="3" fill="white" stroke="#D6D3D1" stroke-width="1.5" opacity="0.8"/>
+  <line x1="108" y1="130" x2="137" y2="130" stroke="#D6D3D1" stroke-width="1.5"/>
+  <line x1="108" y1="138" x2="130" y2="138" stroke="#D6D3D1" stroke-width="1.5"/>
+  
+  <rect x="280" y="135" width="45" height="28" rx="3" fill="white" stroke="#D6D3D1" stroke-width="1.5" opacity="0.8"/>
+  <line x1="288" y1="145" x2="317" y2="145" stroke="#D6D3D1" stroke-width="1.5"/>
+  <line x1="288" y1="153" x2="310" y2="153" stroke="#D6D3D1" stroke-width="1.5"/>
+  
+  <!-- Sparkles of hope -->
+  <path d="M 130 165 L 133 168 L 130 171 L 127 168 Z" fill="#F59E0B" opacity="0.7"/>
+  <path d="M 270 120 L 272 122 L 270 124 L 268 122 Z" fill="#F59E0B" opacity="0.7"/>
+  <path d="M 250 145 L 253 148 L 250 151 L 247 148 Z" fill="#5B8DEF" opacity="0.6"/>
+</svg>
